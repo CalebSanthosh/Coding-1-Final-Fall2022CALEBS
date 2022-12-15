@@ -1,0 +1,80 @@
+p{
+    color:lightgray;
+    text-decoration-color: gold;
+    text-shadow: 10px;
+    
+}
+h1{
+    color:gold;
+    font-weight: bolder;
+    font-style: italic;
+}
+h5{
+    color:gold;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    color:white;
+    font-size: medium;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    background-color:black;
+    height: max-content;
+}
+a{
+    color:white;
+    text-decoration: none;
+    font-weight: bolder;
+    
+}
+a:hover{
+    color:gold;
+    font-size: larger;
+    text-decoration: underline;
+}
+
+.outline{
+   border: 200px;
+   border-color: red;
+}
+.class1{
+font-size: larger;
+color:slategray;
+font-style: italic;
+}
+    
+
+.sizedecrease{
+    font-size: smaller;
+}
+.class2{
+    font-size: xx-large;
+    color:black;
+    font-weight: bold;
+}
+.class3{
+    font-size: small;
+    color: darkslategrey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+footer{
+    position:bottom;
+    margin-top: auto;
+}
+.sticky-footer{
+position: sticky;
+top:100%;
+}
+.content{
+    height: 872.5px;
+}
+.contactspeciale{
+    background-image: url('COVER.jpg');
+    background-size: cover;
+}
+
+
+
+
